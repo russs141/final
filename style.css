@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway')
+;@import url('https://fonts.googleapis.com/css?family=Dosis')
+
+;#body {text-align: center;}
+
+#dog {background-color:#b2ebf2; padding: 30px; color: white; 
+	font-family: raleway, dosis, arial; text-align: center;}
+#header {}
+#portfolio {font-size: 22px;}
+#home {font-size: 22px; padding-right: 50px}
+
+#me {color: #b2ebf2; font-family: raleway, dosis, arial; 
+	font-size: 34px; text-align: center;}
+#bio {color:#b2ebf2; font-family: raleway, dosis, arial; 
+	font-size: 28px; text-align: center;}
+#about {color:#b2ebf2; font-family: raleway, dosis, arial; 
+	font-size: 22px; text-align: center;}
+
+#pizza {color:#b2ebf2; font-family: raleway, dosis, arial; 
+	font-size: 30px; text-align: center;}
+#ig {text-align: center; padding-bottom:30px} 
+
+#lorem {color:black; font-family: raleway, dosis, arial; font-size:15px; 
+	text-align: center; text-indent: 30px; padding-left: 50px; padding-right: 50px;}
+#ipsum {color:black; font-family: raleway, dosis, arial; font-size:15px; 
+	text-align: center; text-indent: 30px; padding-left: 50px; padding-right: 50px;}
+
+html {background-color: #fafafa;}
+
+a:link {color: white; font-family: raleway, dosis, arial;}
+a:visited {color: white; font-family: raleway, dosis, arial;}
+a:hover {color:#f7d3cd; font-family: raleway, dosis, arial;}
